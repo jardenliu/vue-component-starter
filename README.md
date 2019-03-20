@@ -50,7 +50,6 @@ npm run test:unit
 
 ```txt
 ├── README.md
-├── a.txt
 ├── babel.config.js
 ├── examples
 │   ├── assets
